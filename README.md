@@ -1,5 +1,8 @@
 # Azure Secret Expiry Monitor
 
+<img width="1536" height="1024" alt="f3a1643f-2dd2-4f00-b183-ee2be6cf6420" src="https://github.com/user-attachments/assets/734b5a3b-077e-4396-a0e8-68499a716847" />
+
+
 A GitHub Actions-based monitoring solution for Microsoft Entra ID application credentials. It scans application registrations through Microsoft Graph, monitors client secrets and certificates, creates or updates GitHub Issues for credentials requiring attention, manages lifecycle labels, closes duplicate/resolved Issues, and publishes a detailed monitoring report in the GitHub Actions run summary.
 
 The design is intended to scale from a handful of applications to hundreds of application registrations without requiring one workflow per SPN.
