@@ -99,6 +99,9 @@ If the variables are not configured, the workflow uses these defaults.
 
 ## GitHub Issue Lifecycle
 
+<img width="1774" height="887" alt="Azure Credential Lifecycle Dashboard" src="https://github.com/user-attachments/assets/b8094d30-8ec1-4f7e-842e-9f15989fecbb" />
+
+
 The workflow maintains one Issue for each monitored credential that is in the active alert range.
 
 A hidden marker identifies the credential:
